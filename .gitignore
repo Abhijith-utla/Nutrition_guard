@@ -1,0 +1,7 @@
+#ignore vitrual envirnment
+venv/
+
+#ignore the .env files
+.env
+
+__pycache__

@@ -1,0 +1,10 @@
+langchain
+langchain_chroma
+langchain_community
+langchain_core
+langchain_google_genai
+protobuf
+python-dotenv
+streamlit
+streamlit_lottie
+streamlit_option_menu
