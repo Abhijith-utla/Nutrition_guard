@@ -135,7 +135,7 @@ def load_lottiefile(filepath:str):
         with open(filepath,"r") as f:
             return json.load(f)
 
-logo = load_lottiefile("/Users/abhijithutla/projects/AIMD_nutritionguard/assets/spinner.json")
+logo = load_lottiefile("assets/spinner.json")
 
 
 def generate_meal_plan(calories, protien_goal, diet_type, allergies, medical_conditions, favorite_foods):
